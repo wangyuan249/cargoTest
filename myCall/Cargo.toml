@@ -1,0 +1,12 @@
+[package]
+name = "call"
+version = "0.1.0"
+edition = "2021"
+authors = ["ziyuanflame <ziyuan1644@126.com>"]
+description = "A rust call for wangzy97lib."
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+# wangzy97lib = "0.1.4"
+wangzy97lib = { path = "../mylib" }

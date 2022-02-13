@@ -1,0 +1,1 @@
+C:\Users\wangzy\Desktop\cargotest\myCall\target\wasm32-wasi\release\call.wasm: C:\Users\wangzy\Desktop\cargotest\myCall\src\main.rs C:\Users\wangzy\Desktop\cargotest\mylib\src\lib.rs C:\Users\wangzy\Desktop\cargotest\mylib\src\utils\mod.rs
